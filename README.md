@@ -25,18 +25,19 @@ frequency response is shown in figure 2.The two additional frequencies  f 1 and 
 
 **CIRCUIT DIAGRAM:**
 
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/6b3e44bd-c074-4732-a09f-7b521509f37c" />
 
 
 
 **Model graph:**
 
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/beed0999-f6e8-43e1-bc18-aa9f93f27353" />
 
 
 
-**TABULATION:**
+**MARKSLIT UP**
+<img width="1200" height="1600" alt="image" src="https://github.com/user-attachments/assets/6c396c66-1e27-4894-9dcb-bd70070ceb09" />
 
-
-**Calculation:**
 
 
 
